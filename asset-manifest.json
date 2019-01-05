@@ -1,15 +1,15 @@
 {
-  "main.css": "/react-gh-pages/static/css/main.8a9d5070.chunk.css",
-  "main.js": "/react-gh-pages/static/js/main.bafee361.chunk.js",
-  "main.js.map": "/react-gh-pages/static/js/main.bafee361.chunk.js.map",
-  "static/css/1.3657dac3.chunk.css": "/react-gh-pages/static/css/1.3657dac3.chunk.css",
-  "static/js/1.ac974dd2.chunk.js": "/react-gh-pages/static/js/1.ac974dd2.chunk.js",
-  "static/js/1.ac974dd2.chunk.js.map": "/react-gh-pages/static/js/1.ac974dd2.chunk.js.map",
-  "runtime~main.js": "/react-gh-pages/static/js/runtime~main.346eb3ee.js",
-  "runtime~main.js.map": "/react-gh-pages/static/js/runtime~main.346eb3ee.js.map",
-  "static/css/1.3657dac3.chunk.css.map": "/react-gh-pages/static/css/1.3657dac3.chunk.css.map",
-  "static/css/main.8a9d5070.chunk.css.map": "/react-gh-pages/static/css/main.8a9d5070.chunk.css.map",
-  "index.html": "/react-gh-pages/index.html",
-  "precache-manifest.0a0e9587915d5dc613dae2bf2cf60be9.js": "/react-gh-pages/precache-manifest.0a0e9587915d5dc613dae2bf2cf60be9.js",
-  "service-worker.js": "/react-gh-pages/service-worker.js"
+  "main.css": "/react-news/static/css/main.8a9d5070.chunk.css",
+  "main.js": "/react-news/static/js/main.812916d8.chunk.js",
+  "main.js.map": "/react-news/static/js/main.812916d8.chunk.js.map",
+  "static/css/1.3657dac3.chunk.css": "/react-news/static/css/1.3657dac3.chunk.css",
+  "static/js/1.deb51cdd.chunk.js": "/react-news/static/js/1.deb51cdd.chunk.js",
+  "static/js/1.deb51cdd.chunk.js.map": "/react-news/static/js/1.deb51cdd.chunk.js.map",
+  "runtime~main.js": "/react-news/static/js/runtime~main.d652ad56.js",
+  "runtime~main.js.map": "/react-news/static/js/runtime~main.d652ad56.js.map",
+  "static/css/1.3657dac3.chunk.css.map": "/react-news/static/css/1.3657dac3.chunk.css.map",
+  "static/css/main.8a9d5070.chunk.css.map": "/react-news/static/css/main.8a9d5070.chunk.css.map",
+  "index.html": "/react-news/index.html",
+  "precache-manifest.c749832e630250a4ea57a68a8944f209.js": "/react-news/precache-manifest.c749832e630250a4ea57a68a8944f209.js",
+  "service-worker.js": "/react-news/service-worker.js"
 }
